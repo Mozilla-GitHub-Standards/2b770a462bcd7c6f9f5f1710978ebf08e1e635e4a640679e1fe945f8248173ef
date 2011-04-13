@@ -1,0 +1,9 @@
+[submodule "src/django"]
+	path = src/django
+	url = git://github.com/django/django.git
+[submodule "src/django-easymode"]
+	path = src/django-easymode
+	url = git://github.com/LUKKIEN/django-easymode.git
+[submodule "src/django-south"]
+	path = src/django-south
+	url = git://github.com/simplegeo/django-south.git
