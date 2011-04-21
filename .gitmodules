@@ -7,3 +7,6 @@
 [submodule "src/django-south"]
 	path = src/django-south
 	url = git://github.com/simplegeo/django-south.git
+[submodule "src/tower"]
+	path = src/tower
+	url = git://github.com/clouserw/tower.git
