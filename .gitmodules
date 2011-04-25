@@ -19,3 +19,6 @@
 [submodule "src/django-picklefield"]
 	path = src/django-picklefield
 	url = git://github.com/shrubberysoft/django-picklefield.git
+[submodule "src/dateutil"]
+	path = src/dateutil
+	url = git://github.com/cozi/python-dateutil.git

@@ -1,3 +1,4 @@
+src/dateutil
 src/django
 src/django-celery
 src/django-easymode
