@@ -10,3 +10,9 @@
 [submodule "src/tower"]
 	path = src/tower
 	url = git://github.com/clouserw/tower.git
+[submodule "src/django-celery"]
+	path = src/django-celery
+	url = git://github.com/ask/django-celery.git
+[submodule "src/celery"]
+	path = src/celery
+	url = git://github.com/ask/celery.git
