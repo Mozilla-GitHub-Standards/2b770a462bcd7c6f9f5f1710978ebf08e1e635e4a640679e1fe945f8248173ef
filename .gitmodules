@@ -13,6 +13,3 @@
 [submodule "src/django-celery"]
 	path = src/django-celery
 	url = git://github.com/ask/django-celery.git
-[submodule "src/celery"]
-	path = src/celery
-	url = git://github.com/ask/celery.git
