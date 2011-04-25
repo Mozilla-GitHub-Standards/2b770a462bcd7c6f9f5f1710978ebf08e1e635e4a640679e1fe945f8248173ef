@@ -16,3 +16,6 @@
 [submodule "src/celery"]
 	path = src/celery
 	url = git://github.com/ask/celery.git
+[submodule "src/django-picklefield"]
+	path = src/django-picklefield
+	url = git://github.com/shrubberysoft/django-picklefield.git
