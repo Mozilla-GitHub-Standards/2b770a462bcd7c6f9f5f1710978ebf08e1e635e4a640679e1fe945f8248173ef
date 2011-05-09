@@ -1,6 +1,5 @@
 src/django
 src/django-celery
-src/django-easymode
 src/django-south
 src/celery
 src/tower
