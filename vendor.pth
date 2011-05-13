@@ -3,3 +3,4 @@ src/django-celery
 src/django-south
 src/celery
 src/tower
+src/django-multidb-router
