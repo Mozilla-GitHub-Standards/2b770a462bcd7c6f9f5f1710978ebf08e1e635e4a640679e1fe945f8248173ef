@@ -4,3 +4,5 @@ src/django-south
 src/celery
 src/tower
 src/django-multidb-router
+src/django-mozilla-product-details
+src/jingo

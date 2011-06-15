@@ -16,3 +16,9 @@
 [submodule "src/django-multidb-router"]
 	path = src/django-multidb-router
 	url = git://github.com/jbalogh/django-multidb-router.git
+[submodule "src/jingo"]
+	path = src/jingo
+	url = git://github.com/jbalogh/jingo.git
+[submodule "src/django-mozilla-product-details"]
+	path = src/django-mozilla-product-details
+	url = git://github.com/fwenzel/django-mozilla-product-details
